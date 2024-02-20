@@ -1,0 +1,9 @@
+[package]
+name = "xhayper/zzlib.luau"
+description = "zlib-compressed file depacking library in Luau "
+license = "WTFPL"
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
